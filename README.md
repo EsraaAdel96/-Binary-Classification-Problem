@@ -1,11 +1,10 @@
 # -Binary-Classification-Problem
 
-First step
-- The data in excel sheet is cluttered, so you need to organize it in excel sheet and separate columns which these cells have 2 
-values separated by comma "," .
+steps before 
+- The data in excel sheet is cluttered, so I need to organize it in excel sheet and 2 values in each cell is existed in some columns so I separate them into 2 columns 
 - Remove features or variables which are not important in datasets.
-- Datasets have many character values so you should convert them to numeric value (creating dummy variables).
-- Datasets have NaN in cells (missing data) , delete them or replace them by the mean. 
-- Datasets have big values and small values so you should scale features to can use them.
+- Datasets have many character values so I should convert them to numeric value (creating dummy variables).
+- Datasets have NaN in cells (missing data) ,I deleted them or replaced them by the mean. 
+- Datasets have big values and small values so I should scale features to can use them.
 
 
